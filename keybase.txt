@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/riberon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://riberon.com
+  * I am riberon (https://keybase.io/riberon) on keybase.
+  * I have a public key ASA5KgwFVZR-I292LM82Jy9L4kerxWlFNA-ShXpDugORNgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120392a0c0555947e236f762ccf36272f4be247abc56945340f92857a43ba0391360a",
+            "host": "keybase.io",
+            "kid": "0120392a0c0555947e236f762ccf36272f4be247abc56945340f92857a43ba0391360a",
+            "uid": "4b8e760c8361c5dedd97c3766d941519",
+            "username": "riberon"
+        },
+        "service": {
+            "hostname": "riberon.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.9"
+    },
+    "ctime": 1456218580,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1456218310,
+        "hash": "d6c4d2a5af2b60c71d67fdb88669612b78445ddc0e46a73369572fd0c67b1bd100d6da02c776ad2f7f93b2dd19ea3e7e157ff863b9b358bb69fa34dcd89695e5",
+        "seqno": 393206
+    },
+    "prev": "5da4f0d7bdccbbff5aa69f9b64460eff2956a8123f4edf9c07e0317b7795d2eb",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOSoMBVWUfiNvdizPNicvS+JHq8VpRTQPkoV6Q7oDkTYKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzkyYTBjMDU1NTk0N2UyMzZmNzYyY2NmMzYyNzJmNGJlMjQ3YWJjNTY5NDUzNDBmOTI4NTdhNDNiYTAzOTEzNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzkyYTBjMDU1NTk0N2UyMzZmNzYyY2NmMzYyNzJmNGJlMjQ3YWJjNTY5NDUzNDBmOTI4NTdhNDNiYTAzOTEzNjBhIiwidWlkIjoiNGI4ZTc2MGM4MzYxYzVkZWRkOTdjMzc2NmQ5NDE1MTkiLCJ1c2VybmFtZSI6InJpYmVyb24ifSwic2VydmljZSI6eyJob3N0bmFtZSI6InJpYmVyb24uY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC45In0sImN0aW1lIjoxNDU2MjE4NTgwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NTYyMTgzMTAsImhhc2giOiJkNmM0ZDJhNWFmMmI2MGM3MWQ2N2ZkYjg4NjY5NjEyYjc4NDQ1ZGRjMGU0NmE3MzM2OTU3MmZkMGM2N2IxYmQxMDBkNmRhMDJjNzc2YWQyZjdmOTNiMmRkMTllYTNlN2UxNTdmZjg2M2I5YjM1OGJiNjlmYTM0ZGNkODk2OTVlNSIsInNlcW5vIjozOTMyMDZ9LCJwcmV2IjoiNWRhNGYwZDdiZGNjYmJmZjVhYTY5ZjliNjQ0NjBlZmYyOTU2YTgxMjNmNGVkZjljMDdlMDMxN2I3Nzk1ZDJlYiIsInNlcW5vIjoxNywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBwi4a98fuSFu5hTAt/vNSXMn3fauK/Z4Yncgikw94SlqW8GXplTohGIhCtUMElgxQvzQUVPLXe5FFL1mAnX3UFqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/riberon
+
+==================================================================
